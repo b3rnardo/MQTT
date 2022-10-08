@@ -6,8 +6,6 @@ AndroidManifest.xml
 Link: https://hivemq.github.io/hivemq-mqtt-client/docs/mqtt-operations/connect/
  */
 
-// Novo comentário
-
 package com.bernardomation.mqtt;
 
 import androidx.appcompat.app.AppCompatActivity;
